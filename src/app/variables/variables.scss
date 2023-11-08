@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Recursive&family=Source+Sans+3:wght@600&display=swap");
+
+//colors
+$red: #ff7575;
+$bg_color: #232830;
+$gray: #909090;
+$blue: #4699e0;
+$black_text: #0f1217;
+$gray_border: #4d4d4d;
+
+//font-size
+$font30: clamp(15px, 1.953125vw, 60px);
+$font71: clamp(35.5px, 4.622395833333333vw, 142px);
+$font29: clamp(14.5px, 1.8880208333333333vw, 58px);
+$font24: clamp(12px, 1.5625vw, 48px);
+$font27: clamp(13.5px, 1.7578125vw, 54px);
+$font19: clamp(9.5px, 1.2369791666666667vw, 38px);
+$font16: clamp(8px, 1.0416666666666667vw, 32px);
+$font25: clamp(12.5px, 1.6276041666666667vw, 50px);
+$font28: clamp(14px, 1.8229166666666667vw, 56px);
+
+//margin
+$m36: clamp(1.125rem, -1.286rem + 6.429vw, 4.5rem);
+$m37: clamp(1.156rem, -1.321rem + 6.607vw, 4.625rem);
+$m43: clamp(1.344rem, -1.536rem + 7.679vw, 5.375rem);
+$m16: clamp(0.5rem, -0.571rem + 2.857vw, 2rem);
+$m13: clamp(0.406rem, -0.464rem + 2.321vw, 1.625rem);
+$m24: clamp(0.75rem, -0.857rem + 4.286vw, 3rem);
+$m33: clamp(1.031rem, -1.179rem + 5.893vw, 4.125rem);
+$m40: clamp(1.25rem, -1.429rem + 7.143vw, 5rem);
+$m17: clamp(0.531rem, -0.607rem + 3.036vw, 2.125rem);
+$m73: clamp(2.281rem, -2.607rem + 13.036vw, 9.125rem);
